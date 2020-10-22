@@ -3,8 +3,8 @@
 
 # PML: Practical machine learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rawata/pml/blob/master)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rawata/pml/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanyalBurke/pml/blob/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanyalBurke/pml/master)
 
 Practical in a sense that problem precedes concept, you work through a problem to unravel the principle involved. This course is a collection of around 50 problems, covering fundamental areas of machine learning (ML). Focus is on foundational ML methods avoiding extremes of abstruse theory and blackbox application.
 
